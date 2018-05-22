@@ -3,6 +3,10 @@ This project is developed in `Python` and allows you to create and export to a `
 
 #### What do you need?
 To get started use only the Google Maps API key. You can get yours in [Google Maps Plataform](http://maps.googleapis.com/).
+Put your key on line number 14
+```python
+self.key = "YOUR_KEY_HERE"  
+```
 
 #### Functions
 All distances are in meters.
